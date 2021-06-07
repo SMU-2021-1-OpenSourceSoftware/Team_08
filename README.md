@@ -3,3 +3,4 @@
 |이름|학번|GitHubID|Email|
 |:---|:---|:---|:---|
 |정성엽|2018315006|yeobdoll|jsysu2846@naver.com|
+|장찬우|2015727049|dja2613|dja960112@naver.com|
