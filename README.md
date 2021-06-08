@@ -6,10 +6,8 @@
 |장찬우|2015727049|dja2613|dja960112@naver.com|
 |정근영|2018315012|Jeong-Geunyeong|wrd6774@naver.com|
 
-
 ## 김수환
 - kimsoohwan@sunmoon.ac.kr
-
 
 ## 정근영
 - wrd6774@naver.com
@@ -18,3 +16,8 @@
 - dja960112@naver.com
 
 ## 새치기
+
+## 정성엽
+- jsysu2846@naver.com
+- 2018315006
+- GitHub: yeobdoll
