@@ -8,4 +8,6 @@
 
 ## 김수환
 - kimsoohwan@sunmoon.ac.kr
+
 ## 정근영
+- wrd6774@naver.com
